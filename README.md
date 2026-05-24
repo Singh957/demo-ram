@@ -1,2 +1,2 @@
 # demo-ram
-A demo repository
+A demo repository.
